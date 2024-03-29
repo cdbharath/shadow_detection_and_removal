@@ -9,6 +9,7 @@ Gabor filter is designed to identify the texture features in the images. Illumin
 Implemented the algorithm on SBU Shadow Datasets obtaining good results. More work is needed on the boundary processing of the shadows to improve the accuracy. 
 
 ![gesture detection](flow.png)
+
 The flow of the shadow detection and removal algorithm
 
 ## Reference:
