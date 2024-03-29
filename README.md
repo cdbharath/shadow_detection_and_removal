@@ -8,7 +8,7 @@ Implemented an unsupervised segmentation algorithm employing autoencoders for de
 Gabor filter is designed to identify the texture features in the images. Illuminance transfer techniques are deployed to remove the shadow regions with the help of the acquired textures.
 Implemented the algorithm on SBU Shadow Datasets obtaining good results. More work is needed on the boundary processing of the shadows to improve the accuracy. 
 
-![gesture detection](output.png)
+![gesture detection](flow.png)
 
 ## Reference:
 1. [Efficient Shadow Removal Using Subregion Matching Illumination Transfer](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12250?casa_token=XaNTua352PwAAAAA%3AbThsqn8IUYmAwvGgR0-iVLmKTn8SI0YaYy1APLNI1hbzCpHLyakUAGy1ICcWy4YgvJCD2vvlaMeEH_Zt "Efficient Shadow Removal Using Subregion Matching Illumination Transfer")
